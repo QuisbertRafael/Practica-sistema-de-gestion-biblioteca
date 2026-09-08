@@ -1,5 +1,4 @@
-﻿Console.WriteLine("Practica - Tec Web I - Sistema de gestion de una biblioteca");
-using BibliotecaApp.Exceptions;
+﻿using BibliotecaApp.Exceptions;
 using BibliotecaApp.Services;
 
 var servicio = new BibliotecaService();
