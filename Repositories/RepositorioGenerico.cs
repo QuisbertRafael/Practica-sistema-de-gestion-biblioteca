@@ -1,4 +1,4 @@
-using bibliotecaApp.Interfaces;
+using BibliotecaApp.Interfaces;
 
 namespace BibliotecaApp.Repositories
 {

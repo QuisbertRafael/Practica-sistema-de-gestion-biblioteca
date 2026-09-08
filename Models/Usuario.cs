@@ -5,7 +5,7 @@ namespace BibliotecaApp.Models
         public string Nombre{get ; set;}
         public string Correo{get ; set;}
 
-        public Usuario(string id, string nombre, string correo)
+        public IdUsuario(string id, string nombre, string correo)
         {
             Id = id;
             Nombre =nombre;
