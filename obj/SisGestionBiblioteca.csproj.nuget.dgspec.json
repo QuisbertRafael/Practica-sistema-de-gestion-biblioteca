@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael Quisbert\\Desktop\\SisGestionBiblioteca\\SisGestionBiblioteca.csproj": {}
+    "C:\\Users\\el_ra\\Desktop\\Practica-sistema-de-gestion-biblioteca\\SisGestionBiblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael Quisbert\\Desktop\\SisGestionBiblioteca\\SisGestionBiblioteca.csproj": {
+    "C:\\Users\\el_ra\\Desktop\\Practica-sistema-de-gestion-biblioteca\\SisGestionBiblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael Quisbert\\Desktop\\SisGestionBiblioteca\\SisGestionBiblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\el_ra\\Desktop\\Practica-sistema-de-gestion-biblioteca\\SisGestionBiblioteca.csproj",
         "projectName": "SisGestionBiblioteca",
-        "projectPath": "C:\\Users\\Rafael Quisbert\\Desktop\\SisGestionBiblioteca\\SisGestionBiblioteca.csproj",
-        "packagesPath": "C:\\Users\\Rafael Quisbert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael Quisbert\\Desktop\\SisGestionBiblioteca\\obj\\",
+        "projectPath": "C:\\Users\\el_ra\\Desktop\\Practica-sistema-de-gestion-biblioteca\\SisGestionBiblioteca.csproj",
+        "packagesPath": "C:\\Users\\el_ra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\el_ra\\Desktop\\Practica-sistema-de-gestion-biblioteca\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rafael Quisbert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\el_ra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
